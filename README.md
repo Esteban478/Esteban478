@@ -5,14 +5,10 @@ I'm a **Fullstack Web Developer** with a strong background in frontend technolog
 - 🔭 I’m currently working on **building a community platform** for creatives to exchange constructive feedback on their works
 - 🌱 I’m expanding my skills by **learning Next.js** and developing fullstack applications
 - 👯 I’m eager to **collaborate on remote projects** that challenge me to grow and learn
-- 🎵 When I’m not coding, you’ll find me producing **electronic music**, training in **Muay Thai** 🥋, or practicing **calisthenics** 🏋️‍♂️
-- 💻 I’m passionate about contributing to remote environments and creating seamless user-centered experiences
-
+- 🎵 When I’m not coding, you’ll find me producing **Electronic Music**, training in **Muay Thai** 🥋, or practicing **Calisthenics** 🏋️‍♂️
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -30,8 +26,6 @@ I'm a **Fullstack Web Developer** with a strong background in frontend technolog
 
 </td><td valign="top" width="50%">
 
-
-
 ### Backend  
 <div align="center">  
 <picture><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></picture>
@@ -48,8 +42,7 @@ I'm a **Fullstack Web Developer** with a strong background in frontend technolog
 
 </td></tr></table>  
 
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
