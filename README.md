@@ -61,8 +61,4 @@ I'm a **Fullstack Web Developer** with a strong background in frontend technolog
 </a>  
 </div>  
 
-<br />
-
-----
-
 Let’s connect and build something great together!
