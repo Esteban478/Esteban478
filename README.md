@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Stefan!
+![Header](./github-header-sk.png)
 
 I'm a **Fullstack Web Developer** with a strong background in frontend technologies. Currently, I’m diving deep into building scalable and user-friendly applications, while also nurturing my passions outside of coding.
 
